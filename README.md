@@ -8,15 +8,17 @@ Sawubona! Siyakwamukela ku-Empangeni-LAN-Chat. Lolu hlelo lokusebenza lwakhiwe u
 
 (Translation: Hello! Welcome to Empangeni-LAN-Chat. This application is designed to help the people of Empangeni communicate easily, even if they speak different languages. It uses AI technology to translate messages, speak in voice, and extract text from images. All your information stays on your local computers only, completely secure.)
 
-## How to Download the Program
+## How to Download the Program (Important!)
 
-1.  **Go to the Releases Page:**
-    * On this GitHub page, look for the "Releases" section. It's on the right side of the screen.
+**Please follow these steps to download the program:**
+
+1.  **Find the "Releases" Section:**
+    * When you look at this page, on the right side of your screen, you will see a section called "Releases". It might be a little bit down the page.
     * Click on "Releases".
 
-2.  **Download the Program:**
-    * In the "Releases" section, find the latest release.
-    * Download the file named `Empangeni-chat.exe`.
+2.  **Download the Empangeni-chat.exe File:**
+    * In the "Releases" page, you will see a list of releases. Find the latest release (the one at the top).
+    * Look for a file named `Empangeni-chat.exe` and click on it to download. This is the program you need.
 
 ## Getting Started
 
@@ -37,9 +39,9 @@ To run this application, you'll need free API keys from Gemini and Azure Cogniti
 4.  Navigate to the "Keys and Endpoint" section of each resource.
 5.  Copy the subscription key and region.
 
-Once you have the API keys, add them to the `config.ini` file in the root directory of the project.
+Once you have the API keys, add them to the `config.ini` file in the same folder as the `Empangeni-chat.exe` file.
 
-## Running the Application
+## Running the Application (If you are a developer)
 
 1.  Clone this repository to your local machine: `git clone <repository_url>`
 2.  Navigate to the project directory: `cd Empangeni-LAN-Chat`
