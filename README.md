@@ -8,6 +8,16 @@ Sawubona! Siyakwamukela ku-Empangeni-LAN-Chat. Lolu hlelo lokusebenza lwakhiwe u
 
 (Translation: Hello! Welcome to Empangeni-LAN-Chat. This application is designed to help the people of Empangeni communicate easily, even if they speak different languages. It uses AI technology to translate messages, speak in voice, and extract text from images. All your information stays on your local computers only, completely secure.)
 
+## How to Download the Program
+
+1.  **Go to the Releases Page:**
+    * On this GitHub page, look for the "Releases" section. It's on the right side of the screen.
+    * Click on "Releases".
+
+2.  **Download the Program:**
+    * In the "Releases" section, find the latest release.
+    * Download the file named `Empangeni-chat.exe`.
+
 ## Getting Started
 
 To run this application, you'll need free API keys from Gemini and Azure Cognitive Services. Here's how to get them:
@@ -68,3 +78,30 @@ This project would not have been possible without the powerful AI technologies p
 * **Microsoft Azure Cognitive Services:** For its robust Text-to-Speech (TTS) services in multiple languages and accurate Optical Character Recognition (OCR).
 
 We extend our deepest gratitude to these giants for their contributions, enabling us to bridge communication barriers and foster human connections in Empangeni. We are thankful that these technologies are now accessible to our local people, making communication easier and more effective.
+
+## Zulu Translation (Ukuhumusha KwesiZulu)
+
+* **Ukulanda Uhlelo (How to Download):**
+    * Kuleli khasi le-GitHub, funa isigaba esithi "Releases". Sitholakala ohlangothini lwesokudla lwesikrini.
+    * Chofoza ku-"Releases".
+    * Esigabeni esithi "Releases", thola ukukhishwa kwakamuva.
+    * Landa ifayela elibizwa ngokuthi `Empangeni-chat.exe`.
+
+* **Ukusebenzisa Uhlelo (How to Use):**
+    * Lolu hlelo ludinga okhiye abakhethekile ukuxhuma kwi-inthanethi.
+    * Uzodinga ukuthola okhiye bakho kula mawebhusayithi:
+        * **Azure:** Iya ku-[Azure Cognitive Services](https://azure.microsoft.com/en-us/products/cognitive-services/) bese udala i-akhawunti. Uzodinga okhiye be-"Speech" kanye ne-"Computer Vision".
+        * **Google:** Iya ku-[Google AI Studio](https://makersuite.google.com/app/apikey) bese udala ukhiye we-API.
+    * Bhala phansi laba okhiye.
+
+* **Ukusetha Uhlelo (Set Up the Program):**
+    * Uma uqala ukusebenzisa i-`Empangeni-chat.exe`, izobheka ifayela elibizwa ngokuthi `config.ini` kufolda efanayo.
+    * Uma i-`config.ini` ingekho, izoyidala.
+    * Vula ifayela le-`config.ini` usebenzisa i-text editor (njenge-Notepad).
+    * Faka okhiye owathole ku-Azure naku-Google kufayela le-`config.ini`. Shintsha ama-placeholder ngamakhiye akho angempela.
+    * Londoloza ifayela le-`config.ini`.
+
+* **Ukuqala Ukusebenzisa Uhlelo (Start Using the Program):**
+    * Uma usufake okhiye, uhlelo luzoqala.
+    * Ungakhuluma nalo usebenzisa imakrofoni yakho.
+    * Ungaphinda ulinikeze izithombe ukuthi lizichaze.
