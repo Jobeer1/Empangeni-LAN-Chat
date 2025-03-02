@@ -10,6 +10,10 @@ Sawubona! Siyakwamukela ku-Empangeni-LAN-Chat. Lolu hlelo lokusebenza lwakhiwe u
 
 ## How to Download the Program (Important!)
 
+Your on the MAIN branch on the top right corner click on the MAIN button and scroll down to the MASTER branch for downloads 
+
+Ukusendaweni ye-MAIN branch phezulu kwesokudla. Chofoza inkinobho ethi MAIN bese ushaya phansi uze uthole i-MASTER branch ukuze ulande amafayela.
+
 **Please follow these steps to download the program:**
 
 1.  **Find the "Releases" Section:**
